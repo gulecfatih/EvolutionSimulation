@@ -1,0 +1,7 @@
+C:\Users\ilkay\source\repos\EvolutionSimulation\EvolutionSimulation\bin\Debug\EvolutionSimulation.exe.config
+C:\Users\ilkay\source\repos\EvolutionSimulation\EvolutionSimulation\bin\Debug\EvolutionSimulation.exe
+C:\Users\ilkay\source\repos\EvolutionSimulation\EvolutionSimulation\bin\Debug\EvolutionSimulation.pdb
+C:\Users\ilkay\source\repos\EvolutionSimulation\EvolutionSimulation\obj\Debug\EvolutionSimulation.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\EvolutionSimulation\EvolutionSimulation\obj\Debug\EvolutionSimulation.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\EvolutionSimulation\EvolutionSimulation\obj\Debug\EvolutionSimulation.exe
+C:\Users\ilkay\source\repos\EvolutionSimulation\EvolutionSimulation\obj\Debug\EvolutionSimulation.pdb
