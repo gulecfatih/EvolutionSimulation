@@ -6,4 +6,4 @@ Her bir kod parçası, bir türün bir öncekine evrildiği gibi, nesne yönelim
 
 Proje boyunca, nesne yönelimli programlamanın evrimsel süreçlerini inceleyerek, yazılımın nasıl daha karmaşık ve güçlü hale geldiğini göreceğiz. Kodun evrimini izleyerek, nesne yönelimli programlamanın felsefesini ve uygulamalarını keşfetmeyi amaçlıyoruz.
 
-Bu projenin, yazılım geliştirme süreçlerinde evrimin anlaşılmasına ve nesne yönelimli programlamanın gücünün kavranmasına katkıda bulunmasını umuyoruz. İyi okumalar!
+Bu projenin, yazılım geliştirme süreçlerinde nesne yönelimli programlamanın gücünün kavranmasına katkıda bulunmasını umuyoruz. İyi okumalar!
